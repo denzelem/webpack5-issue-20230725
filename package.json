@@ -1,0 +1,11 @@
+{
+  "name": "webpack5-issue-20230725",
+  "private": "true",
+  "scripts": {
+    "build": "webpack --config webpack.config.js"
+  },
+  "dependencies": {
+    "webpack": "x",
+    "webpack-cli": "x"
+  }
+}
